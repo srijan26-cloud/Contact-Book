@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\components\\contacts",
+    "\\src\\components\\elements",
+    "\\src\\constant",
+    "\\src\\reducers",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\src\\components\\contacts\\EditContact.js",
+  "PreviewInSolutionExplorer": false
+}
