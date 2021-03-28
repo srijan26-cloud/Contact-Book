@@ -6,7 +6,7 @@ import EditContact from './components/contacts/EditContact';
 import './styles/App.scss';
 import { provider, Provider } from 'react-redux';
 import store from './store';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
     function App() {
     return (
         <Provider store={store}>
